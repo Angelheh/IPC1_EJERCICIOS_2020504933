@@ -1,0 +1,13 @@
+Reflexión y aplicación práctica
+¿Qué aprendí con esta tarea?
+A crear un repositorio con las instrucciones dadas del auxiliar y a usar github.
+
+¿Cómo crees que aplicarás este conocimiento en otro curso o en la vida profesional?
+Un monton la herramienta de Github es de las mas usadas para los desarolladores
+y lo necesitare cuando quiera subir commits. y aparte tambien puedo usarlo para dejar
+archivos que ayuden a los demas estudiantes.
+
+Conclusión
+
+Github es muy usada por la mayoria de desarolladores por lo tanto es de gran ayuda para
+los que vamos empezando, y saber las funciones básicas me ayudara un montón en mi carrera
